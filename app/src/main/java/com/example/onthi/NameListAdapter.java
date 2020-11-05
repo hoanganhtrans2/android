@@ -40,7 +40,7 @@ public class NameListAdapter extends RecyclerView.Adapter<NameListAdapter.NameVi
             }
         });
     }
-
+    //ghi chu
     @Override
     public int getItemCount() {
         return nameArrayList.size() ;

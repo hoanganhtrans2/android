@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
     private ArrayList<String> nameArrayList;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        //ghi chu
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         rcvName = findViewById(R.id.rcvName);

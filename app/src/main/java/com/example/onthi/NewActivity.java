@@ -17,3 +17,4 @@ public class NewActivity extends AppCompatActivity {
         ((TextView)findViewById(R.id.textView)).setText(name);
     }
 }
+//ghi chi
